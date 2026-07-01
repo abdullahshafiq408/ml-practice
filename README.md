@@ -16,6 +16,7 @@ understanding of the underlying concepts.
 |---|---|---|
 | `titanic_preprocessing.ipynb` | Titanic (Kaggle) | duplicates, missing values, outliers, scaling |
 | `diabetes_preprocessing.ipynb` | Diabetes (sklearn) | duplicates, missing values, outliers, correlations, scaling |
+| `feature_scaling.ipynb` | Sample Dataset | Absolute MinMax, MinMax, Standardization, Normalization, Robust |
 
 ## How to Run
 
