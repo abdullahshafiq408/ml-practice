@@ -15,7 +15,7 @@ understanding of the underlying concepts.
 | Notebook | Dataset | Concepts |
 |---|---|---|
 | `titanic_preprocessing.ipynb` | Titanic (Kaggle) | duplicates, missing values, outliers, scaling |
-| `diabetes_preprocessing.ipynb` | Diabetes (sklearn) | EDA, feature analysis, preprocessing pipeline |
+| `diabetes_preprocessing.ipynb` | Diabetes (sklearn) | duplicates, missing values, outliers, correlations, scaling |
 
 ## How to Run
 
