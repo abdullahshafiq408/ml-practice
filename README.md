@@ -18,6 +18,7 @@ understanding of the underlying concepts.
 | `diabetes_preprocessing.ipynb` | Diabetes (sklearn) | duplicates, missing values, outliers, correlations, scaling |
 | `feature_scaling.ipynb` | Sample Dataset | Absolute MinMax, MinMax, Standardization, Normalization, Robust |
 | `feature_engineering.ipynb` | Sample Dataset | One-Hot Encoding, Binning, Feature Splitting |
+| `exploratory_data_analysis.ipynb` | Sample Dataset | Data Cleaning, Univariate Analysis, Bivariate Analysis, Multivariate Analysis |
 
 ## How to Run
 
