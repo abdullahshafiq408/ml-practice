@@ -19,6 +19,8 @@ understanding of the underlying concepts.
 | `feature_scaling.ipynb` | Sample Dataset | Absolute MinMax, MinMax, Standardization, Normalization, Robust |
 | `feature_engineering.ipynb` | Sample Dataset | One-Hot Encoding, Binning, Feature Splitting |
 | `exploratory_data_analysis.ipynb` | Sample Dataset | Data Cleaning, Univariate Analysis, Bivariate Analysis, Multivariate Analysis |
+| `kfold_cross_validation.ipynb` | Iris Dataset | KFold Cross Validation, SVC, Results |
+
 
 ## How to Run
 
