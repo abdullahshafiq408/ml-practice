@@ -21,9 +21,9 @@ understanding of the underlying concepts.
 | `exploratory_data_analysis.ipynb` | Sample Dataset | Data Cleaning, Univariate Analysis, Bivariate Analysis, Multivariate Analysis |
 | `kfold_cross_validation.ipynb` | Iris Dataset | KFold Cross Validation, SVC, Results |
 | `hyperparameter_tuning.ipynb` | Sample Dataset | GridSearchCV, LogisticRegression, RandomizedSearchCV, DecisionTree |
-| `implementation_of_simple_linear_regression.ipynb` | Sample Dataset | Linear Regression, Gradient Descent |
-| `simple_linear_regression.ipynb` | Sample Dataset | Simple Linear Regression |
-
+| `01_implementation_of_simple_linear_regression.ipynb` | Sample Dataset | Linear Regression, Gradient Descent |
+| `02_simple_linear_regression.ipynb` | Sample Dataset | Simple Linear Regression |
+| `03_multiple_linear_regression.ipynb` | California House Pricing | Multiple Linear Regression, 3D Visualization |
 
 ## How to Run
 
