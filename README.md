@@ -20,6 +20,7 @@ understanding of the underlying concepts.
 | `feature_engineering.ipynb` | Sample Dataset | One-Hot Encoding, Binning, Feature Splitting |
 | `exploratory_data_analysis.ipynb` | Sample Dataset | Data Cleaning, Univariate Analysis, Bivariate Analysis, Multivariate Analysis |
 | `kfold_cross_validation.ipynb` | Iris Dataset | KFold Cross Validation, SVC, Results |
+| `hyperparameter_tuning.ipynb` | Sample Dataset | GridSearchCV, LogisticRegression, RandomizedSearchCV, DecisionTree |
 
 
 ## How to Run
