@@ -24,6 +24,8 @@ understanding of the underlying concepts.
 | `01_implementation_of_simple_linear_regression.ipynb` | Sample Dataset | Linear Regression, Gradient Descent |
 | `02_simple_linear_regression.ipynb` | Sample Dataset | Simple Linear Regression |
 | `03_multiple_linear_regression.ipynb` | California House Pricing | Multiple Linear Regression, 3D Visualization |
+| `04_implementation_of_logistic_regression.ipynb` | Sample Dataset | Logistic Regression Using Numpy, Accuracy |
+| `05_logistic_regression.ipynb` | Breast Cancer | Sklearn Logistic Regression, Accuracy |
 
 ## How to Run
 
