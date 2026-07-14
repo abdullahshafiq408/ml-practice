@@ -27,6 +27,7 @@ understanding of the underlying concepts.
 | `01_logistic_regression_scratch.ipynb` | Sample Dataset | Logistic Regression Using Numpy, Accuracy |
 | `02_logistic_regression_sklearn.ipynb` | Breast Cancer | Sklearn Logistic Regression, Accuracy |
 | `03_decision_tree_sklearn.ipynb` | Iris | Decision Tree Classifier, Hyperparameters Explanation, Hyperparameter Tuning, Tree Plot |
+| `04_decision_tree_sklearn.ipynb` | Sample Dataset | Decision Tree Regressor, Hyperparameters Explanation, Hyperparameter Tuning, Tree Plot |
 
 ## How to Run
 
